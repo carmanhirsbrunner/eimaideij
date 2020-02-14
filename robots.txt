@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wahxeebei.solar2013.xyz/sitemap.xml
